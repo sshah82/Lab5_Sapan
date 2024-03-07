@@ -1,0 +1,391 @@
+
+.image {
+  width: 100%;
+  height: 337px;
+}
+.image .Universe {
+  position: absolute;
+  width: 100%;
+  height: 337px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.image {
+  width: 289px;
+  height: 337px;
+}
+
+.image .kc {
+  position: absolute;
+  width: 289px;
+  height: 337px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.label {
+  width: 100%;
+  height: 83px;
+}
+
+.label .txt-wrap {
+  position: absolute;
+  width: 100%;
+  margin-top: 105px;
+  top: 0;
+  right: 105px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.label {
+  width: 100%;
+  height: 83px;
+}
+
+.label .txt-wrap1 {
+  position: absolute;
+  width: 100%;
+  margin-top: 167px;
+  top: 0;
+  right: 210px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
+}
+
+.image .kc1 {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 370px;
+  left: 17px;
+  border-radius: 50%;
+  border: 0px solid;
+}
+
+.label {
+  width: 1096px;
+  height: 83px;
+}
+
+.label .txt1 {
+  position: absolute;
+  width: 1096px;
+  top: 400px;  
+  left: 315px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.label .txt2 {
+  position: absolute;
+  top: 460px;  
+  left: 315px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.image1 {
+  width: 100%;
+  height: 400px;
+}
+.image1 .nasa1 {
+  position: absolute;
+  width: 100%;
+  height: 337px;
+  top: 1610px;
+  left: 0;
+  object-fit: fill;
+  z-index: -1;
+}
+.label .txt-wrap2 {
+  position: absolute;
+  width: 1200px;
+  top: 1592px;
+  left: -480px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.image .kc2 {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 675px;
+  right: 17px;
+  border-radius: 50%;
+  border: 0px solid;
+}
+.label .txt3 {
+  position: absolute;
+  width: 1096px;
+  top: 689px;  
+  left: 10px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.label .txt4 {
+  position: absolute;
+  top: 754px;  
+  left: 10px;
+  right: 320px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.image1 .nasa2 {
+  position: absolute;
+  height: 150px;
+  top: 1720px;
+  left: 50px;
+  object-fit: cover;
+}
+.image .sts-87 {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 992px;
+  left: 17px;
+  border-radius: 50%;
+  border: 0px solid;
+}
+
+.label .txt5 {
+  position: absolute;
+  width: 1096px;
+  top: 1000px;  
+  left: 315px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.label .txt6 {
+  position: absolute;
+  top: 1050px;  
+  left: 315px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.image .sts107 {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 1325px;
+  right: 17px;
+  border-radius: 50%;
+  border: 0px solid;
+}
+.label .txt3 {
+  position: absolute;
+  width: 1096px;
+  top: 689px;  
+  left: 10px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.label .txt4 {
+  position: absolute;
+  top: 754px;  
+  left: 10px;
+  right: 320px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.label .txt7 {
+  position: absolute;
+  width: 1096px;
+  top: 1340px;  
+  left: 10px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.label .txt8 {
+  position: absolute;
+  top: 1405px;  
+  left: 10px;
+  right: 320px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.label .txt9 {
+  position: absolute;
+  top: 2000px;  
+  left: 10px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.label .txt10 {
+  position: absolute;
+  top: 2040px;  
+  left: 10px;
+  width:100%;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 1.6;
+  font-size: x-large;
+}
+.label .txt11 {
+  position: absolute;
+  top: 1675px;
+  left: 750px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.label .txt12 {
+  position: absolute;
+  top: 2280px;  
+  left: 10px;
+  color: #000000;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 0;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.image3 .mission {
+  position: absolute;
+  width:300px;
+  height: 500px;
+  top: 2345px;
+  left: 0px;
+  object-fit:cover;
+}
+.image3 .artemis {
+  position: absolute;
+  width:300px;
+  height: 500px;
+  top: 2345px;
+  left: 316px;
+  object-fit:cover;
+}
+.image3 .analog {
+  position: absolute;
+  width:300px;
+  height: 500px;
+  top: 2345px;
+  left: 632px;
+  object-fit:cover;
+}
+.image3 .Human {
+  position: absolute;
+  width:300px;
+  height: 500px;
+  top: 2345px;
+  left: 948px;
+  object-fit:cover;
+}
+.label .txt-wrap3 {
+  position: absolute;
+  top: 2750px;
+  left: 15px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.label .txt-wrap4 {
+  position: absolute;
+  top: 2750px;
+  left: 331px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.label .txt-wrap5 {
+  position: absolute;
+  top: 2722px;
+  left: 647px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.label .txt-wrap6 {
+  position: absolute;
+  top: 2722px;
+  left: 963px;
+  font-family: "Inknut Antiqua-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
